@@ -1,0 +1,7 @@
+Pour lancer la compilation :  make
+Pour exécuter le fichier à la main : ./main -b/g/pv -f nom_du_fichier -p Population -G nbGen -m/a/c
+-b -> -m && -c ( taux mutation et taux de croisement )
+-g -> -m (mutation)
+-pv -> -a (Taux d'apprentissage)
+
+
